@@ -1,0 +1,24 @@
+Sanity System Plugin – License Agreement
+Copyright (c) 2025 Frytek. All rights reserved.
+
+1. Permission of Use
+You are granted permission to install and use this plugin on your own Garry’s Mod server(s) for personal or community use.
+
+2. Restrictions
+You are NOT allowed to:
+- Redistribute the plugin files in whole or in part, whether for free or for payment.
+- Reupload, share, or distribute this plugin to any third-party website, platform, or file hosting service.
+- Sell, rent, lease, or sublicense the plugin or any derivative works.
+- Modify and rebrand the plugin to claim authorship.
+- Include the plugin in any package, compilation, or content bundle for sale or public distribution.
+
+3. Assets Used
+- sanity.png – created by Frytek, all rights reserved.
+- whisperpsycha1.mp3, whisperpsycha2.mp3, whisperpsycha3.mp3, whisperpsycha4.mp3, whisperpsycha5.mp3, pills.mp3 – sourced from Pixabay.com under the Pixabay License (https://pixabay.com/service/license-summary/).
+
+4. Warranty Disclaimer
+This plugin is provided “as is” without warranty of any kind, express or implied. The author shall not be held liable for any damages arising from the use or misuse of this plugin.
+
+5. Acceptance of Terms
+By installing or using this plugin, you agree to abide by the terms of this license.
+
